@@ -1,5 +1,7 @@
 Dice Game
 A simple, fun, and engaging dice game created using JavaScript. Two players roll two dices each, and the game determines the winner based on the outcome of the rolls.
+<img width="1154" alt="Screen Shot 2023-04-15 at 11 55 16 PM" src="https://user-images.githubusercontent.com/111477091/232265639-6a54f456-3c0e-4c17-8499-7648fca2c0c2.png">
+
 
 
 ## Features
